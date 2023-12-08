@@ -1,14 +1,10 @@
-{
- "all_version" : [
- {
- "channel" : "ALFA",
-  "version" : "1.33120231027.54543 - 1.20.1",
- }{
-  "channel" : "BETA",
-  "version" : "1.33120231027.54543 - 1.20.1",
- }{
-  "channel" : "RELEASE",
-  "version" : "1.33120231027.54543 - 1.20.1"
- }
- ]
+{ 
+ "channel_alfa" : "ALFA",
+  "version_alfa" : "1.33120231027.54543 - 1.20.1",
+ 
+  "channel_beta" : "BETA",
+  "version_beta" : "1.33120231027.54543 - 1.20.1",
+
+  "channel_release" : "RELEASE",
+  "version_release" : "1.33120231027.54543 - 1.20.1" 
 }
